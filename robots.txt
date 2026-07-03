@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kyungminkim11.github.io/lavalabs-space-web/sitemap.xml
