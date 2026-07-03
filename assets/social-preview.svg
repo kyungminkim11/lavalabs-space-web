@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">LavaLabs Space</title>
+  <desc id="desc">360도 가상투어와 디지털 공간 구축 서비스</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b0e13"/><stop offset="1" stop-color="#1d2430"/></linearGradient>
+    <radialGradient id="glow" cx="75%" cy="20%" r="70%"><stop stop-color="#c9ff48" stop-opacity=".3"/><stop offset="1" stop-color="#c9ff48" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect width="1200" height="630" fill="url(#glow)"/>
+  <g transform="translate(82 82)">
+    <rect width="74" height="74" rx="22" fill="#c9ff48"/>
+    <path d="M37 13 61 27v28L37 69 13 55V27L37 13Z" fill="none" stroke="#0b0e13" stroke-width="4"/>
+    <path d="m26 44 11-21 11 21h-8v11h-6V44h-8Z" fill="none" stroke="#0b0e13" stroke-width="4" stroke-linejoin="round"/>
+  </g>
+  <text x="82" y="250" fill="#c9ff48" font-family="Arial, sans-serif" font-size="24" font-weight="700" letter-spacing="5">LAVALABS SPACE</text>
+  <text x="82" y="345" fill="#ffffff" font-family="Arial, sans-serif" font-size="68" font-weight="800">공간을 온라인에서</text>
+  <text x="82" y="425" fill="#ffffff" font-family="Arial, sans-serif" font-size="68" font-weight="800">직접 경험하게.</text>
+  <text x="82" y="505" fill="#aeb4bd" font-family="Arial, sans-serif" font-size="28">360° 가상투어 · 공간 사진 · 맞춤형 웹</text>
+  <g transform="translate(850 160)">
+    <circle cx="120" cy="120" r="116" fill="none" stroke="#ffffff" stroke-opacity=".12" stroke-width="2"/>
+    <circle cx="120" cy="120" r="74" fill="none" stroke="#c9ff48" stroke-opacity=".55" stroke-width="3" stroke-dasharray="8 10"/>
+    <text x="120" y="138" text-anchor="middle" fill="#c9ff48" font-family="Arial, sans-serif" font-size="56" font-weight="800">360°</text>
+  </g>
+</svg>
